@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://hv9903.github.io/sdms.github.io/';
+$config['base_url'] = 'sdms.github.io/application/controllers/user.php/index';
 
 /*
 |--------------------------------------------------------------------------
